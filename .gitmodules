@@ -1,0 +1,3 @@
+[submodule "DIConfiguration"]
+	path = lib/external/DIConfiguration
+	url = git@github.com:distiller/DIConfiguration.git
