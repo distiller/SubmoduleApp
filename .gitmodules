@@ -1,3 +1,6 @@
 [submodule "DIConfiguration"]
 	path = lib/external/DIConfiguration
 	url = git@github.com:distiller/DIConfiguration.git
+[submodule "lib/external/RestKit"]
+	path = lib/external/RestKit
+	url = https://github.com/RestKit/RestKit.git
